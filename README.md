@@ -170,13 +170,7 @@ const rohit: SoftwareTester = {
 
 </div>
 
----
-
-### 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rohit9973/rohit9973/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+--
 
 ---
 
