@@ -78,11 +78,11 @@ const rohit: SoftwareTester = {
 
 **🤖 Automation Frameworks**
 
-<img src="https://skillicons.dev/icons?i=playwright&theme=dark" height="50"/>
+<img src="https://img.shields.io/badge/Playwright-2D4A6E?style=for-the-badge&logo=playwright&logoColor=45ba4b" />
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=selenium&theme=dark" height="50"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white" />
 
 <br/><br/>
 
